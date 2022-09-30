@@ -1,3 +1,14 @@
+# Additional files
+scraping_orig.py
+scraping_final_selfstudy_bkp.py
+Practice.ipynb
+Mission_to_Mars_Challenge_downloaded_version.py
+Mission_to_Mars.ipynb
+templates/index_original.html
+
+challenge
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
